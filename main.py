@@ -90,7 +90,7 @@ fig3.update_xaxes(rangeslider_visible=True)
 
 # Chargement des fonctions ---------------------------------------------------------------------
 def display_df(df):
-    print('A')
+    print('Z')
     print(df.columns)
 
     df.drop(columns='Unnamed: 0', inplace=True)
